@@ -3,3 +3,5 @@
 [caffe教程](http://blog.csdn.net/u012693499/article/details/64126260)  
 ### 数据量少怎么办
 [极坐标变换](https://www.leiphone.com/news/201708/hce10wWJbDDoRA5z.html)
+### 常用资源  
+[深度学习、机器学习资源分享](https://blog.csdn.net/hanging_gardens/article/details/75461846)
