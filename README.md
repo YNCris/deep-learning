@@ -4,7 +4,8 @@
 [caffe教程](http://blog.csdn.net/u012693499/article/details/64126260)  
 [Win10 Anaconda下TensorFlow-GPU环境搭建详细教程（包含CUDA+cuDNN安装过程）](https://www.cnblogs.com/guoyaohua/p/9265268.html)  
 [win10搭建tensorflow-gpu环境2019年4月1日](https://www.cnblogs.com/wanyu416/p/9536853.html)  
-[Win10 x64 + CUDA 10.0 + cuDNN v7.5 + TensorFlow GPU 1.13 安装指南](https://www.cnblogs.com/sorex/p/7615185.html)
+[Win10 x64 + CUDA 10.0 + cuDNN v7.5 + TensorFlow GPU 1.13 安装指南](https://www.cnblogs.com/sorex/p/7615185.html)  
+[cuda9.1+cudnn下载网盘](https://blog.csdn.net/m0_37638031/article/details/78896818)
 ### 数据量少怎么办
 [极坐标变换](https://www.leiphone.com/news/201708/hce10wWJbDDoRA5z.html)
 ### 常用资源  
