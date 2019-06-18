@@ -7,6 +7,7 @@
 [Win10 x64 + CUDA 10.0 + cuDNN v7.5 + TensorFlow GPU 1.13 安装指南](https://www.cnblogs.com/sorex/p/7615185.html)  
 [cuda9.1+cudnn下载网盘](https://blog.csdn.net/m0_37638031/article/details/78896818)  
 [在 Anaconda 中安装 TensorFlow-gpu 2.0（无需下载 CUDA）](https://blog.csdn.net/qq_20084101/article/details/89148256)  
+[tensorflow支持的cuda版本](https://blog.csdn.net/weixin_42718092/article/details/85001140)  
 ### 数据量少怎么办
 [极坐标变换](https://www.leiphone.com/news/201708/hce10wWJbDDoRA5z.html)
 ### 常用资源  
