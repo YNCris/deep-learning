@@ -17,3 +17,5 @@
 [matlab迁移学习CSDN教程](https://blog.csdn.net/zfrycw/article/details/80633979)
 ### 手写体数字识别  
 [matlab读取mnist](https://blog.csdn.net/fuwenyan/article/details/53954615)  
+### 行为学分析  
+[知识图(knowledge graph)](https://blog.csdn.net/u014033218/article/details/89290338)  
