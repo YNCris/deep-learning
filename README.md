@@ -20,3 +20,4 @@
 ### 行为学分析  
 [知识图(knowledge graph)](https://blog.csdn.net/u014033218/article/details/89290338)  
 [演进知识图谱](https://blog.csdn.net/tgqdt3ggamdkhaslzv/article/details/91470702)  
+[GDELT疙瘩汤数据集使用教程](https://blog.csdn.net/qq_23926575/article/details/78064093)
