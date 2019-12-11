@@ -21,4 +21,7 @@
 [知识图(knowledge graph)](https://blog.csdn.net/u014033218/article/details/89290338)  
 [演进知识图谱](https://blog.csdn.net/tgqdt3ggamdkhaslzv/article/details/91470702)  
 [GDELT疙瘩汤数据集使用教程](https://blog.csdn.net/qq_23926575/article/details/78064093)  
-[隐马尔科夫模型HMM详解](http://www.360doc.com/content/18/0911/08/17157244_785582242.shtml)
+[隐马尔科夫模型HMM详解](http://www.360doc.com/content/18/0911/08/17157244_785582242.shtml)  
+### 文本分类  
+[用深度学习（CNN RNN Attention）解决大规模文本分类问题 - 综述和实践](https://zhuanlan.zhihu.com/p/25928551)  
+[300万知乎多标签文本分类任务经验分享（附源码）](https://yq.aliyun.com/articles/277390?utm_content=m_35982)  
